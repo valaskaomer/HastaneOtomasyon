@@ -6,7 +6,7 @@ from data_handler import delete_record
 import os
 
 root = tk.Tk()
-root.title("Diş Hekimi Randevu ve Hasta Takip Sistemi")
+root.title("Doktor ve Hekim Randevu ve Hasta Takip Sistemi")
 root.geometry("900x600")
 
 # 📌 Kayıt Formu
